@@ -1,1 +1,1 @@
-# Visualizing-data-on-a-historical-map-with-uMap-
+# Visualizing-spatial-historical-data-with-uMap-
