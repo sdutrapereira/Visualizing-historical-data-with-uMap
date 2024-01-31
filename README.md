@@ -1,1 +1,1 @@
-# Visualizing-spatial-historical-data-with-uMap-
+# uMap: Visualizing_spatial_historical_data
