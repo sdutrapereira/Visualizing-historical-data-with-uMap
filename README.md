@@ -41,7 +41,7 @@
 
 ![image](https://github.com/sdutrapereira/Visualizing-data-on-a-historical-map-with-uMap-/assets/119598409/3d40712d-1c44-427b-9825-772a478c6031)
 
-### uMap: Producing historical and cultural spaces: The research of an german academy in the 18th century
+### uMap: Producing historical and cultural spaces: The research of a german academy in the 18th century
 
 ![image](https://github.com/sdutrapereira/Visualizing-historical-data-with-uMap/assets/119598409/872393be-7082-4c31-a2d7-1d4db4e88952)
 
