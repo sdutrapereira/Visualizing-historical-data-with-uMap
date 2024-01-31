@@ -1,4 +1,4 @@
-# uMap: Visualizing spatial historical data
+# uMap: Analising and Visualizing spatial historical data
 
 
 #### Lesson in a nutshell:
