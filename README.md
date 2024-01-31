@@ -1,4 +1,4 @@
-# uMap: Visualizing_spatial_historical_data
+# uMap: Visualizing spatial historical data
 
 
 1. INTEGRATION OF THE HISTORICAL MAP WITH A MODERN ONE
