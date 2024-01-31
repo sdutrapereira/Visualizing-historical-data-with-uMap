@@ -1,9 +1,9 @@
-# uMap: Analising and Visualizing spatial historical data
+# uMap: Analysing and Visualising spatial historical data
 
 
 #### Lesson in a nutshell:
 
-1. Embedding historical maps as custom overlay in uMap
+1. Embedding historical maps as custom overlays in uMap
 2. Enriching a dataset wich spatial information (coordinates and polygons) in GeoJson.io
 3. Which kind of layers or visualizations do I need?
 4. Uploading spatial data into and Creating layers in uMap
